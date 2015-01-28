@@ -1,5 +1,5 @@
 require "mechanize"
-require "nokogirl"
+require "nokogiri"
 
 url = ARGV[0] #get the url from command line input
 fp = File.new("wikilinks.txt", "w")

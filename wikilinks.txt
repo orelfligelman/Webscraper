@@ -1,18 +1,18 @@
 References
 
 
-^ nagachika (2014-11-13). "Ruby 2.1.5 Released". ruby-lang.org. Retrieved 13 November 2014. 
-^ a b c Cooper, Peter (2009). Beginning Ruby: From Novice to Professional. Beginning from Novice to Professional (2nd ed.). Berkeley: APress. p. 101. ISBN 1-4302-2363-4. "To a lesser extent, Python, LISP, Eiffel, Ada, and C++ have also influenced Ruby." 
-^ a b c d e f Bini, Ola (2007). Practical JRuby on Rails Web 2.0 Projects: Bringing Ruby on Rails to Java. Berkeley: APress. p. 3. ISBN 1-59059-881-4. "It draws primarily on features from Perl, Smalltalk, Python, Lisp, Dylan, and CLU." 
-^ "Intro - D Programming Language 1.0 - Digital Mars". Digital Mars. Retrieved 2014-10-21. "D is a systems programming language. Its focus is on combining the power and high performance of C and C++ with the programmer productivity of modern languages like Ruby and Python." 
-^ Bertels, Christopher (23 February 2011). "Introduction to Fancy". Rubinius blog. Retrieved 2011-07-21. 
-^ Bini, Ola. "Ioke". Ioke.org. Retrieved 2011-07-21. "inspired by Io, Smalltalk, Lisp and Ruby" 
-^ http://julia.readthedocs.org/en/latest/manual/introduction/
-^ Burks, Tim. "About Nu™". Programming Nu™. Neon Design Technology, Inc. Retrieved 2011-07-21. 
-^ Lattner, Chris (2014-06-03). "Chris Lattner's Homepage". Chris Lattner. Retrieved 2014-06-03. "The Swift language is the product of tireless effort from a team of language experts, documentation gurus, compiler optimization ninjas, and an incredibly important internal dogfooding group who provided feedback to help refine and battle-test ideas. Of course, it also greatly benefited from the experiences hard-won by many other languages in the field, drawing ideas from Objective-C, Rust, Haskell, Ruby, Python, C#, CLU, and far too many others to list." 
+^ naruse (2014-12-25). "Ruby 2.2.0 Released". ruby-lang.org. Retrieved 26 December 2014. 
 ^ COPYING in Ruby official source repository
 ^ GPL in Ruby official source repository
 ^ BSDL in Ruby official source repository
+^ a b c Cooper, Peter (2009). Beginning Ruby: From Novice to Professional. Beginning from Novice to Professional (2nd ed.). Berkeley: APress. p. 101. ISBN 1-4302-2363-4. To a lesser extent, Python, LISP, Eiffel, Ada, and C++ have also influenced Ruby. 
+^ a b c d e f Bini, Ola (2007). Practical JRuby on Rails Web 2.0 Projects: Bringing Ruby on Rails to Java. Berkeley: APress. p. 3. ISBN 1-59059-881-4. It draws primarily on features from Perl, Smalltalk, Python, Lisp, Dylan, and CLU. 
+^ "Intro - D Programming Language 1.0 - Digital Mars". Digital Mars. Retrieved 2014-10-21. D is a systems programming language. Its focus is on combining the power and high performance of C and C++ with the programmer productivity of modern languages like Ruby and Python. 
+^ Bertels, Christopher (23 February 2011). "Introduction to Fancy". Rubinius blog. Retrieved 2011-07-21. 
+^ Bini, Ola. "Ioke". Ioke.org. Retrieved 2011-07-21. inspired by Io, Smalltalk, Lisp and Ruby 
+^ http://julia.readthedocs.org/en/latest/manual/introduction/
+^ Burks, Tim. "About Nu™". Programming Nu™. Neon Design Technology, Inc. Retrieved 2011-07-21. 
+^ Lattner, Chris (2014-06-03). "Chris Lattner's Homepage". Chris Lattner. Retrieved 2014-06-03. The Swift language is the product of tireless effort from a team of language experts, documentation gurus, compiler optimization ninjas, and an incredibly important internal dogfooding group who provided feedback to help refine and battle-test ideas. Of course, it also greatly benefited from the experiences hard-won by many other languages in the field, drawing ideas from Objective-C, Rust, Haskell, Ruby, Python, C#, CLU, and far too many others to list. 
 ^ "About Ruby". Retrieved 2 March 2014. 
 ^ Shugo Maeda (17 December 2002). "The Ruby Language FAQ". Retrieved 2 March 2014. 
 ^ Yukihiro Matsumoto (13 February 2006), ruby-talk: Re: Ruby's lisp features, retrieved 2 March 2014 
@@ -36,6 +36,8 @@ References
 ^ Endoh, Yusuke. (2013-02-24) Ruby 2.0.0-p0 is released. Ruby-lang.org. Retrieved on 2013-07-17.
 ^ "Ruby 2.1.0 is released". December 25, 2013. Retrieved December 26, 2013. 
 ^ "Semantic Versioning starting with Ruby 2.1.0". December 21, 2013. Retrieved December 27, 2013. 
+^ "Ruby 2.2.0 Released". December 25, 2014. Retrieved January 4, 2015. 
+^ Ruby 2.2.0 NEWS
 ^ The Ruby Programming Language by Yukihiro Matsumoto on 2000-06-12 (informit.com)
 ^ Google Tech Talks – Ruby 1.9 on YouTube
 ^ a b c The Philosophy of Ruby, A Conversation with Yukihiro Matsumoto, Part I by Bill Venners on 2003-09-29 (Artima Developer)
@@ -49,7 +51,7 @@ References
 ^ Britt, James. "Ruby 2.0.0 Standard Library Documentation". Retrieved 2013-12-09. 
 ^ Green threads
 ^ Ruby FAQ
-^ In Ruby's syntax, statement is just a special case of an expression which cannot appear as an argument (e.g. multiple assignment). http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/1120
+^ In Ruby's syntax, statement is just a special case of an expression that cannot appear as an argument (e.g. multiple assignment). http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/1120
 statement [...] can not be part of expression unless grouped within parentheses. http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/2460
 ^ Re: semenatics of if/unless/while statement modifiers. Blade.nagaokaut.ac.jp (2005-11-23). Retrieved on 2013-07-17.
 ^ Peter Cooper (2010-05-18). "The Why, What, and How of Rubinius 1.0's Release". 
